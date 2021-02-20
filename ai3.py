@@ -173,9 +173,3 @@ for epoch in range(1, nb_epochs + 1):
 #To close the doom environment    
 doom_env.close()    
             
-            
-            
-            
-            
-            
-            
